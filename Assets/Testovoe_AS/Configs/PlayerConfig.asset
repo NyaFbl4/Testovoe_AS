@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: PlayerConfig
   m_EditorClassIdentifier: 
   _playerConfig:
-    _moveSpeed: 0
-    _gravityForce: 0
+    _moveSpeed: 10
+    _gravityForce: 10
