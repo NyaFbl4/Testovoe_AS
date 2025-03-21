@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\Users\Public\Repos\Testovoe\Testovoe_AS" t="IncludeRecursive">
+      <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="Plugins" t="Include">
+          <e p="Cardboard Box (Rigged)" t="Include">
+            <e p="ReadMe.txt" t="Include" />
+          </e>
           <e p="Zenject" t="Include">
             <e p="LICENSE.txt" t="Include" />
             <e p="OptionalExtras" t="Include">
@@ -930,6 +934,10 @@
             <e p="Camera" t="Include">
               <e p="CameraController.cs" t="Include" />
               <e p="FixedTouchField.cs" t="Include" />
+            </e>
+            <e p="Figures" t="Include">
+              <e p="Figure.cs" t="Include" />
+              <e p="FigureType.cs" t="Include" />
             </e>
             <e p="Installers" t="Include">
               <e p="PlayerConfigInstaller.cs" t="Include" />

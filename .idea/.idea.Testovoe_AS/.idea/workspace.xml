@@ -19,6 +19,9 @@
       <option value="$PROJECT_DIR$/Assets/Testovoe_AS/Scripts/Camera/FixedTouchField.cs" />
       <option value="$PROJECT_DIR$/Assets/Testovoe_AS/Scripts/System/InputSystem.cs" />
       <option value="$PROJECT_DIR$/Assets/Testovoe_AS/Scripts/Camera/CameraController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Testovoe_AS/Scripts/Figures/Figures.cs" />
+      <option value="$PROJECT_DIR$/Assets/Testovoe_AS/Scripts/Figures/FiguresType.cs" />
+      <option value="$PROJECT_DIR$/Assets/Testovoe_AS/Scripts/Figures/Figure.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="2uZaVYLcSOFvQOwErBQorwuIcxr" />
@@ -43,6 +46,7 @@
       <updated>1742458580313</updated>
       <workItem from="1742458584072" duration="83000" />
       <workItem from="1742458707226" duration="6059000" />
+      <workItem from="1742562624561" duration="401000" />
     </task>
     <servers />
   </component>
